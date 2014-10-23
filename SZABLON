@@ -1,0 +1,48 @@
+N - ilosc wierzcholkow
+.
+.
+ID(0..N-1) X Y
+.
+.
+M - ilosc krawedzi
+.
+.
+ID(0..M-1) BEGIN_NODE_ID END_NODE_ID HALF_WIDTH FROZEN FREEZABLE
+.
+.
+K - ilosc kontrolerow (swiatel)
+.
+.
+INTERVAL(1337-parkingowy,reszta normalnie) PATH_ID . . .
+.
+.
+L - ilosc poligonow
+.
+.
+NODE_ID . . .
+.
+.
+O - ilosc obrazkow
+.
+.
+X Y PICTURE_PATH
+.
+.
+P - ilosc tekstow
+.
+.
+X;Y;TEXT
+.
+.
+Q - ilosc fabryk ludzi
+.
+.
+NODE_BEGIN NODE_END INTERVAL SPEED LIMIT
+.
+.
+R - ilosc fabryk aut
+.
+.
+NODE_BEGIN NODE_END INTERVAL SPEED LIMIT
+.
+.
